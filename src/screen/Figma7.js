@@ -96,7 +96,7 @@ const styles = StyleSheet.create({
         textAlign: 'center', 
         color: 'black', 
         fontSize: 20, 
-        fontFamily: 'Roboto', 
+        fontFamily: 'Arial', 
         fontWeight: '700', 
         wordWrap: 'break-word',
         paddingBottom: 44

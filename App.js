@@ -7,6 +7,7 @@ import Figma4 from './src/screen/Figma4';
 import Figma5 from './src/screen/Figma5';
 import Figma6 from './src/screen/Figma6';
 import Figma7 from './src/screen/Figma7';
+import Figma8 from './src/screen/Figma8';
 export default function App() {
     //return <Figma1/>;
     //return <Figma2/>;
@@ -14,5 +15,6 @@ export default function App() {
     //return <Figma4/>;
     //return <Figma5/>;
     //return <Figma6/>;
-    return <Figma7/>;
+    //return <Figma7/>;
+    return <Figma8/>;
 }
